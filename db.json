@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "ji",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "frg",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "rgr",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "gyyu",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "uuy",
+      "completed": false,
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
